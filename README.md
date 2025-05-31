@@ -7,7 +7,9 @@
 ### 🛠 **About Me**
 - 🎓 **Education**:  
   Bachelor of Technology in Electrical and Electronics Engineering  
-  *(Kerala Technological University - Rajagiri School of Engineering and Technology, 2022)*  
+  *(Kerala Technological University - Rajagiri School of Engineering and Technology, 2018-2022)*
+  Bachelor of Computer Application
+  *(Rabindra Nath Tagore University, 2022-2025)* 
 - 🏆 **Certifications**:  
   Penetration Testing and Ethical Hacking *(RedTeam Hacker Academy)*  
 - 🔒 **Mission**: Securing cyberspace by reporting vulnerabilities to enhance organizational security.  
