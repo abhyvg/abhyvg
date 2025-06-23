@@ -66,7 +66,7 @@
 
 ## 🧠 My TryHackMe Progress
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/yourusername.png)](https://tryhackme.com/p/yourusername)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/abhyvg.png)](https://tryhackme.com/p/abhyvg)
 
 ---
 
