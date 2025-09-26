@@ -47,13 +47,6 @@
 
 ---
 
-### ⚡ Fun Facts
-- 🧪 Built a home lab using a Raspberry Pi and an old router  
-- 🎮 Favorite Game Genre: Open-world RPGs  
-- 📚 Favorite Book on Security: *The Web Application Hacker’s Handbook*
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
